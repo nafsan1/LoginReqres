@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SaltTest</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="you_are_successfully_logged_in">You are successfully logged in!</string>
+</resources>
